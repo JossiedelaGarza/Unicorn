@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Puppies vs Kittens</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>
+  Kittens
+  </h1>
+  <p>
+       Kittens are like geminins, no one likes them. 
+  </p>    
+   
+  <P>
+    <a href="/">Back to the main page</a>
+  </P>
+      
+      
+</body>
+</html>
